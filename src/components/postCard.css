@@ -1,0 +1,29 @@
+.card{
+    line-height: 2;
+    border: 0;
+    border-radius: 6px;
+    outline: 1px solid #e2e2e2;
+    margin: 0 16px 16px 16px;
+    padding: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.title{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.control{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.author{
+    font-weight: 400;
+}
+
+.delete{
+    cursor: pointer;
+    color: #FF204E;
+}
